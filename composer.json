@@ -1,0 +1,14 @@
+{
+    "name": "gogol/lebertest",
+    "description": "test for leber",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gogol\\Lebertest\\": "src/"
+        }
+    },
+    "require": {
+        "claviska/simpleimage": "^3.7",
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}
